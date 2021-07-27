@@ -139,3 +139,4 @@ try:
     from local_setting import *
 except ImportError:
     pass
+#yes
